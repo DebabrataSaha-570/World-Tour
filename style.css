@@ -13,3 +13,7 @@ body{
 .card-color{
     background-color: #1e81d83b;
 }
+#countryDetails{
+    margin-left: 80px;
+    margin-bottom: 30px;
+}
