@@ -1,0 +1,15 @@
+.countryDiv{
+    text-align: center;
+    margin-bottom: 20px;
+}
+#displayCountry{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 80px;
+}
+body{
+    background-image: url('/ranger-4df6c1b6.png');
+}
+.card-color{
+    background-color: #1e81d83b;
+}
